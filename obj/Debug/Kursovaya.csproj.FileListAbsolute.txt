@@ -1,0 +1,10 @@
+E:\Kursovaya\bin\Debug\Kursovaya.exe.config
+E:\Kursovaya\bin\Debug\Kursovaya.exe
+E:\Kursovaya\bin\Debug\Kursovaya.pdb
+E:\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+E:\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+E:\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+E:\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+E:\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+E:\Kursovaya\obj\Debug\Kursovaya.exe
+E:\Kursovaya\obj\Debug\Kursovaya.pdb
